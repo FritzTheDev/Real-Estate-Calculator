@@ -5,4 +5,4 @@ This is an easy-to-use Real Estate Investment Analysis calculator I built using 
 
 
 
-TODO: Finish the Markdown file.
+TODO: Finish the Markdown.
